@@ -91,6 +91,14 @@ You have to download video
 
 ---
 
+## Screenshots
+
+![Truss drawing](1.png)
+
+![Sections](2.png)
+
+![Plates](3.png)
+
 ## Notes
 
 - The program was developed as part of a university assignment to automate repetitive engineering drawing tasks.
