@@ -93,11 +93,13 @@ You have to download video
 
 ## Screenshots
 
-![Truss drawing](1.png)
+<img src="images/1.png" width="800">
 
-![Sections](2.png)
+<img src="images/2.png" width="800">
 
-![Plates](3.png)
+<img src="images/3.png" width="800">
+
+---
 
 ## Notes
 
