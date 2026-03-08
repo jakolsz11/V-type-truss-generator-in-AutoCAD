@@ -86,6 +86,7 @@ This should resolve the issue.
 
 ## Demo
 
+You have to download video
 [VIDEO_PLACEHOLDER](https://github.com/jakolsz11/V-type-truss-generator-in-AutoCAD/blob/main/Demo%20V-type%20truss.mp4)
 
 ---
