@@ -86,7 +86,7 @@ This should resolve the issue.
 
 ## Demo
 
-VIDEO_PLACEHOLDER
+[VIDEO_PLACEHOLDER](https://github.com/jakolsz11/V-type-truss-generator-in-AutoCAD/blob/main/Demo%20V-type%20truss.mp4)
 
 ---
 
