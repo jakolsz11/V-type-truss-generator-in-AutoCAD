@@ -93,11 +93,11 @@ You have to download video
 
 ## Screenshots
 
-<img src="images/1.png" width="800">
+<img src="Images/1.png" width="800">
 
-<img src="images/2.png" width="800">
+<img src="Images/2.png" width="800">
 
-<img src="images/3.png" width="800">
+<img src="Images/3.png" width="800">
 
 ---
 
